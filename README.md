@@ -4,8 +4,9 @@
 
 ## Build Setup
 
-``` bash
 演示地址 http://dodododooo.com/bbt/#/login
+
+``` bash
 
 bash
 # install dependencies
